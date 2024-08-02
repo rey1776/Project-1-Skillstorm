@@ -6,8 +6,8 @@ Created with postSQL as the RDBMS
 Java Spring for the backend
 React JS for the Front End
 
-SkillStrom project 1 folder has the backend Java implementation.
-React folder has all the front end implementation. 
+SkillStrom project 1 folder has the backend Java implementation. Main dependencies used are Spring MVC, and Spring Data.
+React folder has all the front end implementation. Bootstrap was added for some styling as well as custom.css file. 
 Application is about creating location and adding warehouses to the location. Also adding products to the warehouses. 
 
 
